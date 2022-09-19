@@ -9,4 +9,4 @@ echo value of c = $c
 Date1 = $(date)
 echo Today date is Date1
 
-echo $Date = $(date)
+echo Date is $Date $(date)
