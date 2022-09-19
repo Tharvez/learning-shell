@@ -10,3 +10,8 @@ Date1=$(date)
 echo Today date is $Date1
 
 echo Date is $(date)
+
+Add=$((1+5+8))
+echo value of 1+5+8 is $Add
+
+echo value of x = $x
