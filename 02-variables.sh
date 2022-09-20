@@ -18,5 +18,5 @@ echo value of x = $x
 
 ## export x from CLI
 
-arr=(10,20,30)
+arr=(10 20 30)
 echo ${arr[0]}
