@@ -17,3 +17,6 @@ echo value of 1+5+8 is $Add
 echo value of x = $x
 
 ## export x from CLI
+
+arr=(10,20,30)
+echo ${arr[0]}
