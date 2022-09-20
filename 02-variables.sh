@@ -15,3 +15,5 @@ Add=$((1+5+8))
 echo value of 1+5+8 is $Add
 
 echo value of x = $x
+
+## export x from CLI
