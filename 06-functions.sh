@@ -20,7 +20,7 @@ SAMPLE1() {
 ## Main Program
 a=10
 SAMPLE angel
-echo $?
+#echo $?
 echo RETURN = $?
 SAMPLE1
 echo b from Function = $b
