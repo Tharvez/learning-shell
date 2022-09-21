@@ -4,4 +4,4 @@ echo $2  # 2nd argument
 echo $*  # all argument
 echo $@  # all argument
 echo $#  # no of argument
-echo Status = $? &>>$LOG_FILE
+echo Status = $?
