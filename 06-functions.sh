@@ -20,7 +20,7 @@ SAMPLE1() {
 ## Main Program
 a=10
 SAMPLE angel
-echo RETURN STATUS = $?
+echo STATUS = $?
 SAMPLE1
 echo b from Function = $b
 b=200
