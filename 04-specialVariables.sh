@@ -5,3 +5,4 @@ echo $*  # all argument
 echo $@  # all argument
 echo $#  # no of argument
 echo Status = $?
+ls -l &>>$LOG_FILE
