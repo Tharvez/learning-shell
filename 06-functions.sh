@@ -21,7 +21,7 @@ SAMPLE1() {
 a=10
 SAMPLE angel
 echo RETURN STATUS = $?
-#SAMPLE1
+SAMPLE1
 echo b from Function = $b
 b=200
 echo b from function after override in Main program -  $b
