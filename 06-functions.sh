@@ -8,7 +8,7 @@ function SAMPLE() {
   echo SAMPLE FUNCTION
   b=10
   echo First Argument to Script = $1
-  echo $COMPONENT
+  echo The component is : $COMPONENT
   return 50
 }
 
