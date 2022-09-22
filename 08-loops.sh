@@ -15,4 +15,5 @@ done
 
 for fruit in apple orange mango banana grapes ; do
   echo fruit is : $fruit
+  sleep 1
 done
