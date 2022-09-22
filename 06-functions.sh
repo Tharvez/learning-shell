@@ -1,4 +1,5 @@
 ## Declaration way 1
+COMPONENT=function
 
 function SAMPLE() {
   echo a from Main Program = $a
@@ -7,6 +8,7 @@ function SAMPLE() {
   echo SAMPLE FUNCTION
   b=10
   echo First Argument to Script = $1
+  echo $COMPONENT
   return 50
 }
 
