@@ -1,10 +1,10 @@
-system=Linux
+system=2
 
 case $system in
-  Linux)
+  1)
     echo Linux System
     ;;
-  Unix)
+  2)
     echo Unix System
     ;;
   *)
