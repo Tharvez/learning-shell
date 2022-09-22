@@ -1,4 +1,4 @@
-system=2
+read -p 'Enter the input :' system
 
 case $system in
   1)
