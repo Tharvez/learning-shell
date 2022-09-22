@@ -11,3 +11,8 @@ while [ $a -gt 0 ]; do
    a=$(($a-1))
   sleep 1
 done
+
+
+for fruit in apple orange mango banana grapes ; do
+  echo fruit is : $fruit
+done
