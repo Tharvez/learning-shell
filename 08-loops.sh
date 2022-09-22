@@ -15,5 +15,8 @@ done
 
 for fruit in apple orange mango banana grapes ; do
   echo fruit is : $fruit
+  if [ $fruit == mango ]; then
+      break
+  fi
   sleep 1
 done
