@@ -7,7 +7,7 @@ function SAMPLE() {
   echo SAMPLE FUNCTION
   b=10
   echo First Argument to Script = $1
-  return 100
+  return 50
 }
 
 
