@@ -1,4 +1,4 @@
-system=1
+system=Linux
 
 case $system in
   Linux)
